@@ -21,4 +21,3 @@ decrypt.exe PSFKernel.asm WTF89165 PSFKernel.asm_un
 decrypt.exe Cap_Sensor_Integrated_Library_N588H_TMG_DBS_CD_NOR_PSF.asm WTF89165 Cap_Sensor_Integrated_Library_N588H_TMG_DBS_CD_NOR_PSF.asm_un
 decrypt.exe NSP_ICP_Writer_un.ini WTF89165 NSP_ICP_Writer.ini
 decrypt.exe PlaylistEditor_un.ini WTF89165 PlaylistEditor.ini
-WWW
